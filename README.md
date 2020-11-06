@@ -6,3 +6,4 @@
  Agents are able to make calls when going into the softphone page where they'll see their assigned clients which are automatically updated by the system once they're all imported
 We use a VOIP system to make the softphone work.
 Under the hood, theres data control, input control, import control, password hashing, call control, role control, and others being implemented in multiple python files.
+
